@@ -12,3 +12,4 @@
 - https://en.wikipedia.org/wiki/Inter-process_communication
 - https://en.wikipedia.org/wiki/Asynchrony_(computer_programming)
 - https://en.wikipedia.org/wiki/Multithreading_(computer_architecture)
+- https://en.wikipedia.org/wiki/Reentrancy_(computing)
