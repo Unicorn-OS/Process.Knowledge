@@ -7,3 +7,4 @@
 - https://en.wikipedia.org/wiki/Context_switch
 - https://en.wikipedia.org/wiki/Preemption_(computing) - https://en.wikipedia.org/wiki/Procfs
 - https://en.wikipedia.org/wiki/Context_(computing)
+- https://en.wikipedia.org/wiki/Thread_(computing)
