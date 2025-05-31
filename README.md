@@ -2,6 +2,7 @@
 - https://en.wikipedia.org/wiki/Process_(computing)
 - https://en.wikipedia.org/wiki/Process_(computing)#/media/File:Concepts-_Program_vs._Process_vs._Thread.jpg
 - https://en.wikipedia.org/wiki/Process_control_block
+- https://en.wikipedia.org/wiki/Process_management_(computing)
 
 # Relation:
 - https://en.wikipedia.org/wiki/Context_switch
